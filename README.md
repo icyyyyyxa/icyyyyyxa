@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @icyyyyyxa
+- 👋 Hi, I’m @icyyyyyxa/Josh
 - 👀 I’m interested in Programing and Cybersecurity
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
